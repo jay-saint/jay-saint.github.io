@@ -13,8 +13,8 @@ markdown: kramdown
 #
 title : Jay Saint - BLog
 tagline: Site Tagline
-author : Joe
-  name : St. Clair
+author :
+  name : Joe St. Clair
   # email : blah@email.test
   github : jay-saint
   twitter : the80y
